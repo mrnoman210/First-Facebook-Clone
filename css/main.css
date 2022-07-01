@@ -1,0 +1,13 @@
+body
+{
+    background-color: wheat;
+    
+}
+.parent
+{
+    display: flow-root;
+}
+.parent
+{
+    background-color: rgb(255, 5, 46);
+}
